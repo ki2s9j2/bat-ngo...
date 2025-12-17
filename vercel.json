@@ -14,6 +14,10 @@
     {
       "src": "/test1.lua",
       "dest": "/api/test1.js"
+    },
+    {
+      "src": "/api/chichigaianime.lua",
+      "dest": "/api/test1.js"
     }
   ]
 }

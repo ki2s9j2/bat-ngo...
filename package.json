@@ -1,0 +1,13 @@
+{
+  "name": "vercel-test1",
+  "version": "1.0.0",
+  "description": "Vercel deployment for Test1.lua",
+  "main": "api/test1.js",
+  "scripts": {
+    "start": "node api/test1.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
+
